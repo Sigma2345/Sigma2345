@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sigma2345" alt="sigma2345" /></a> </p>
 
-- 🌱 I’m currently learning **Blockchain Dapps development on ethereum, polygon**
+- 🌱 I’m currently learning **Blockchain Dapps development on ethereum based chains**
 
 - 👯 I'm looking to **collaborate**   
 - 💬 Ask me about **decentralized finance**
